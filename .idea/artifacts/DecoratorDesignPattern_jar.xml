@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DecoratorDesignPattern:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DecoratorDesignPattern_jar</output-path>
+    <root id="archive" name="DecoratorDesignPattern.jar">
+      <element id="module-output" name="FactoryPatternJavaFramework" />
+      <element id="module-test-output" name="FactoryPatternJavaFramework" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/beust/jcommander/1.82/jcommander-1.82.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/webjars/jquery/3.6.1/jquery-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/testng/testng/7.7.1/testng-7.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.36/slf4j-api-1.7.36.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
