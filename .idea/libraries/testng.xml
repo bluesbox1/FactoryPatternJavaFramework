@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="testng">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/testng" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/testng" recursive="false" />
+  </library>
+</component>
